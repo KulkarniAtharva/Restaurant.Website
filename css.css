@@ -1,0 +1,59 @@
+#body
+{
+  background:url(nature1.jpg) right bottom repeat;
+
+}
+
+.button1
+{
+  background-color : orange;
+  border:none;
+  color:black;
+  font-weight:bold;
+  font-size:20px;
+  width:240px;
+  height:45px;
+  
+}
+
+.pav_bhaji
+{
+   position:relative;
+   float:left;
+}
+
+.text-block
+{
+  position:absolute;
+  top: 40px;
+  left: 40px;
+  background-color: orange;
+  color: black;
+  font-weight:bold;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.price
+{
+	background-color:orange;
+	width:550px;
+	height:220px;		/*  need to give width & height otherwise block does not display */	
+	float:right;
+}
+
+.box
+{ 	
+	background-color:white;
+	width:280px;
+	height:180px;		/*  need to give width & height otherwise block does not display */	
+	position:absolute;
+}
+
+.about
+{
+	background-color:white;
+	width:280px;
+	height:180px;		/*  need to give width & height otherwise block does not display */	
+	
+}
